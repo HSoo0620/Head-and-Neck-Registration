@@ -25,7 +25,7 @@ Segrap 2023 Datasets Link : https://segrap2023.grand-challenge.org/ <br/>
   - For pre-processing, reference ```preprocessing_Segrap.py```.
   - For initial affine registration, reference ```Train_Affine.py```. <br/>
 ```python
-python Train_M_Adv.py \
+python Train.py \
     --affine_model experiments/affine \
     --dataset_dir Dataset/Segrap_2023 \
     --save_validation_img True \
@@ -33,7 +33,7 @@ python Train_M_Adv.py \
 ```
 ## Inference
 ```python
-python Inference_M_Adv.py --affine_model experiments/affine --dataset_dir Dataset/Segrap_2023
+python Inference.py --affine_model experiments/affine --dataset_dir Dataset/Segrap_2023
 ```
 
 ## Main results
