@@ -3,7 +3,7 @@
 Implement of "Head and Neck Registration"
 
 ## Overall Process
-<img src = "https://github.com/user-attachments/assets/4a3c5cef-6a64-4cf5-a9a4-0aed3afa376f" width="100%" height="100%">
+<img src = "https://github.com/user-attachments/assets/303f52c1-57b3-433b-84f0-14733f7f7685" width="100%" height="100%">
 
 ## Prerequisites
 - [python==3.8.8](https://www.python.org/)  <br/>
@@ -37,8 +37,8 @@ python Inference.py --affine_model experiments/affine --dataset_dir Dataset/Segr
 ```
 
 ## Main results
-<img src = "https://github.com/user-attachments/assets/167f22c1-1fa5-4e8b-9a4d-4d42e001cd72" width="100%" height="100%">
-<img src = "https://github.com/user-attachments/assets/b9ae4a99-2ed2-4dc4-b9e5-ddd70d8af3bc" width="100%" height="100%">
+<img src = "https://github.com/user-attachments/assets/68e946ae-4d09-4962-9a5a-a2f32eff78b0" width="100%" height="100%">
+<img src = "https://github.com/user-attachments/assets/0cf809ed-9e52-458b-9487-0f7a499734c5" width="100%" height="100%">
 
 ## Reference Codes
 - [https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
